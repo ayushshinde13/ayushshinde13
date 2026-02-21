@@ -1,3 +1,4 @@
+# Hello, I am Ayush Kumar Shinde
 🚀 Aspiring MERN Stack Developer (React Frontend Focused)
 💻 Passionate about building real-world, responsive web applications
 🎯 Actively seeking Internship / Entry-Level Web Developer roles
