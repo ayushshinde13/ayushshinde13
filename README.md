@@ -34,7 +34,7 @@ Integrated JWT authentication with protected routes
 
 Connected frontend with backend APIs for real-world workflow
 
-Projects
+
 🍔 Taste Pilot – Food Ordering Web Application (MERN Stack)
 Built a responsive React-based food ordering application using React.js and Tailwind CSS.
 Implemented JWT-based authentication with protected routes and secure user login.
