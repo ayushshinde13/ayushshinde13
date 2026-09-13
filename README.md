@@ -1,6 +1,6 @@
 Hii , I'm
 AYUSH KUMAR SHINDE
-MERN Stack Developer | React Frontend Focused
+MERN Stack Developer
 
 Passionate about building real-world, responsive web applications.
 Actively seeking Internship / Entry-Level Web Developer roles.
