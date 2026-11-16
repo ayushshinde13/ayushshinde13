@@ -106,6 +106,7 @@ Actively seeking **Internship / Entry-Level Web Developer roles.**
 - Connected frontend with backend REST APIs for a real-world booking workflow
 
 **Repo:** [GitHub Repository](https://github.com/ayushshinde13/room-finder-mern)
+**Live Demo:** [Room Finder](https://room-finder-mern.vercel.app/) 
 
 ---
 
