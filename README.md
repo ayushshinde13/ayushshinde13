@@ -10,7 +10,7 @@ Actively seeking **Internship / Entry-Level Web Developer roles.**
 - **LinkedIn:** [linkedin.com/in/ayush-shinde--](https://www.linkedin.com/in/ayush-shinde--/)
 - **GitHub:** [github.com/ayushshinde13](https://github.com/ayushshinde13)
 - **Email:** ayushshinde225@gmail.com
-- **Portfolio Link** (https://ayush-sites.vercel.app/)
+- **Portfolio Link** https://ayush-sites.vercel.app/
 
 ---
 
